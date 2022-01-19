@@ -239,7 +239,6 @@
               <!-- TODO flakes on CI for inscrutable reasons -->
               <excludes>
                 <exclude>org.jenkinsci.plugins.pipeline.modeldefinition.BasicModelDefTest</exclude>
-                <exclude>org.jenkinsci.plugins.pipeline.modeldefinition.MatrixTest</exclude>
                 <exclude>org.jenkinsci.plugins.pipeline.modeldefinition.WhenStageTest</exclude>
                 <exclude>org.jenkinsci.plugins.pipeline.modeldefinition.WhenStageMultibranchTest</exclude>
                 <exclude>org.jenkinsci.plugins.pipeline.modeldefinition.PostStageTest</exclude>
